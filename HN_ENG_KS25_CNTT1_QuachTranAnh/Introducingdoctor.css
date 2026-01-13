@@ -1,0 +1,41 @@
+body{
+    font-family: cursive;
+    background-color: #fff7ed;
+}
+header{
+    text-align: center;
+}
+h1{
+    color: #92400e;
+    background-color: #fde68a;
+}
+h2{
+    color: #92400e;
+}
+h3{
+    color: #92400e;
+    background-color: #fed7aa;
+    max-width: 3000px;
+}
+#main1{
+    background-color: white;
+}
+#main2{
+    background-color: white;
+}
+#main3{
+    background-color: white;
+}
+ol li:hover{
+    color: yellow;
+    background-color: #78350f;
+}
+footer{
+    text-align: center;
+    background-color: #78350f;
+    color: white;
+}
+span:hover{
+    background-color: #78350f;
+    color: white;
+}
